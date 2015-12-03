@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/driving">
+        <file>translate.qm</file>
+    </qresource>
+</RCC>
